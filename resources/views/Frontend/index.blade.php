@@ -82,7 +82,7 @@
 					<h1 class="title">
 						Hot Products
 					</h1>
-					<a href="{{url('/view')}}" class="product-view-all-btn">
+					<a href="{{url('/type')}}" class="product-view-all-btn">
 						View All
 					</a>
 				</div>
